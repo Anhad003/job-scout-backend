@@ -1,0 +1,10 @@
+ini
+
+
+
+fastapi==0.112.0
+uvicorn==0.30.3
+pydantic==2.8.2
+python-dotenv==1.0.1
+requests==2.32.3
+openai==1.35.10
